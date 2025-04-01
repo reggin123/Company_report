@@ -1,7 +1,7 @@
 streamlit
-langchain
-langchain-community
-openai
+langchain==0.1.14
+langchain-community==0.0.21
+openai==1.14.2
 python-dotenv
 beautifulsoup4
 requests
